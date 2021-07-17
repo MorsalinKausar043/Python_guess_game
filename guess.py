@@ -23,4 +23,4 @@ while not game_over :
             input_num = int(input("enter again your guess number : "))
             guess += 1 
 t2 = time.time()
-print(f"time cost : {t2-t1}!")
+print(f"time cost : {t2-t1}!")  #How much time cost for this game!
